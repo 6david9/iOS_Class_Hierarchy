@@ -1,0 +1,9 @@
+{
+  "SenTestCase": [
+    "AFHTTPClientTests",
+    "AFHTTPRequestOperationTests",
+    "AFImageRequestOperationTests",
+    "AFJSONRequestOperationTests",
+    "AFURLConnectionOperationTests"
+  ]
+}

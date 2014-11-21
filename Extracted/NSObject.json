@@ -1,0 +1,41 @@
+{
+  "NSObject": [
+    "AFHTTPRequestOperationManager",
+    "AFNetworkReachabilityManager",
+    "AFSecurityPolicy",
+    {
+      "AFHTTPRequestSerializer": [
+        "AFJSONRequestSerializer",
+        "AFPropertyListRequestSerializer"
+      ]
+    },
+    "AFQueryStringPair",
+    "AFStreamingMultipartFormData",
+    "AFHTTPBodyPart",
+    {
+      "AFHTTPResponseSerializer": [
+        "AFJSONResponseSerializer",
+        "AFXMLParserResponseSerializer",
+        "AFXMLDocumentResponseSerializer",
+        "AFPropertyListResponseSerializer",
+        "AFImageResponseSerializer",
+        "AFCompoundResponseSerializer"
+      ]
+    },
+    {
+      "AFURLSessionManager": [
+        {
+          "AFHTTPSessionManager": [
+            "AFAppDotNetAPIClient"
+          ]
+        }
+      ]
+    },
+    "AFURLSessionManagerTaskDelegate",
+    "AppDelegate",
+    "Post",
+    "User",
+    "AFNetworkingTests",
+    "AFNetworkActivityIndicatorManager"
+  ]
+}

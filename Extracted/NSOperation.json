@@ -1,0 +1,9 @@
+{
+  "NSOperation": [
+    {
+      "AFURLConnectionOperation": [
+        "AFHTTPRequestOperation"
+      ]
+    }
+  ]
+}

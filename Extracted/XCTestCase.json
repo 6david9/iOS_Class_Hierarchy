@@ -1,0 +1,18 @@
+{
+  "XCTestCase": [
+    {
+      "AFTestCase": [
+        "AFHTTPRequestOperationTests",
+        "AFHTTPRequestSerializationTests",
+        "AFHTTPResponseSerializationTests",
+        "AFHTTPSessionManagerTests",
+        "AFJSONRequestSerializationTests",
+        "AFJSONResponseSerializationTests",
+        "AFNetworkActivityManagerTests",
+        "AFPropertyListResponseSerializerTests",
+        "AFSecurityPolicyTests",
+        "AFURLSessionManagerTests"
+      ]
+    }
+  ]
+}
